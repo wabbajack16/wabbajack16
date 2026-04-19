@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![My-Game-Career](https://github.com/wabbajack16/wabbajack16/blob/main/1774321291866.png)
+
+<!-- 可选：设置图片大小，避免图片太大撑满页面 -->
+<img src="
+https://github.com/wabbajack16/wabbajack16/blob/main/1774321291866.png" width="600" alt="My-Game-Career">
