@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+> "As terrifying and painful as reality can be, it's also the only place you can get a decent meal. Because, reality... is real."
+> — James Halliday, Ready Player One
+
 <!--
 **wabbajack16/wabbajack16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My-Game-Career](https://github.com/wabbajack16/wabbajack16/blob/main/1774321291866.jpg)
+![我的Steam游戏生涯](https://github.com/wabbajack16/wabbajack16/blob/main/1774321291866.jpg)
